@@ -1,0 +1,35 @@
+_repo: An-Essay-on-True-and-Apparent-Beauty-in-which-from-Settled-Principles-is-Rendered-the-Grounds__28921
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cunningham, J. V. (James Vincent)
+    alias: Cunningham, James Vincent
+    birthdate: 1911
+    deathdate: 1985
+    gutenberg_agent_id: '33588'
+    url: http://www.gutenberg.org/2009/agents/33588
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicole, Pierre
+    birthdate: 1625
+    deathdate: 1695
+    gutenberg_agent_id: '33587'
+    url: http://www.gutenberg.org/2009/agents/33587
+description: ''
+gutenberg_issued: '2009-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Epigrams -- History and criticism'
+title: An Essay on True and Apparent Beauty in which from Settled Principles is Rendered
+  the Grounds for Choosing and Rejecting Epigrams
+url: http://www.gutenberg.org/ebooks/28921
